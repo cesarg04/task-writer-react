@@ -2,7 +2,7 @@
 # Para ejecutar el programa
  
 ## Instaar dependencias
-## yarn
+## `yarn`
 
 ## Crear un proyecto de Firebase
 
@@ -10,4 +10,4 @@
 
 ## Añadir los datos de la Api de Firebase
 
-## yarn dev
+## `yarn dev`
