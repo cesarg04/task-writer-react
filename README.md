@@ -1,13 +1,13 @@
-# task-writer-react
+## task-writer-react
 # Para ejecutar el programa
  
-Instaar dependencias
-# yarn
+## Instaar dependencias
+## yarn
 
-# Crear un proyecto de Firebase
+## Crear un proyecto de Firebase
 
-# Crear un archivo .env.local tomando como referencial el .env.local.example que se encuentra en la repo
+## Crear un archivo `.env.local` tomando como referencial el `.env.local.example` que se encuentra en la repo
 
-# Añadir los datos de la Api de Firebase
+## Añadir los datos de la Api de Firebase
 
-# yarn dev
+## yarn dev
